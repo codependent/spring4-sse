@@ -1,0 +1,9 @@
+/.apt_generated/
+/bin/
+/target/
+/.settings/
+/.classpath
+/.factorypath
+/.project
+/.tern-project
+/hs_err_pid1240.log
